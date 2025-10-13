@@ -26,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thaboyaluya&show_icons=true&locale=en" alt="thaboyaluya" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thaboyaluya&" alt="thaboyaluya" /></p>
+
+[![Rume's GitHub stats](https://github-readme-stats.vercel.app/api?username=thaboyaluya)](https://github.com/thaboyaluya/github-readme-stats)
