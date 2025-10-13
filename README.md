@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Rume Aluya!
-👩🏻‍🎓 Studied [Electrical and Electronics Engineering at Bells University of Technology, Nigeria<br/>
+👩🏻‍🎓 Studied Electrical and Electronics Engineering at Bells University of Technology, Nigeria<br/>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
